@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './Tooltip.css';
 
 function Tooltip(props) {
-  const [visible,setVisible] = useState(true);
+  
   
  
   const {
